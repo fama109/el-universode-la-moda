@@ -62,7 +62,7 @@ justify-content: space-evenly;
 }
 #colegio{
 width: 33%;
-background-color: gold;
+background-color: red;
 padding: 5px;
 }
 #colegio a {
@@ -71,7 +71,7 @@ color: #aaa;
 
 #alumno{
   width: 33%;
-background-color: #000;
+background-color: yellow;
 color: #aaa;
 padding: 5px;
 }
@@ -81,7 +81,7 @@ padding: 5px;
 
 #sociales{
   width: 33%;
-background-color: gold;
+background-color: lightblue;
 padding: 5px;
 }
 
@@ -89,11 +89,12 @@ padding: 5px;
   width: 50px;
 }
 /*fin del footer*/
-main {
-  padding: 1rem;
-}
-
-h1 {
-  font-weight: bold;
-  font-size: 1.5rem;
-}
+  main {
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  

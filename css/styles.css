@@ -106,26 +106,26 @@ justify-content: space-evenly;
 }
 #colegio{
 width: 33%;
-background-color: red;
+background-color: black;
 padding: 5px;
 }
 #colegio a {
-color: #aaa;
+color: white;
 }
 
 #alumno{
   width: 33%;
-background-color: yellow;
-color: #aaa;
+background-color:black;
+color: white;
 padding: 5px;
 }
 #alumno a{
-  color: #555;
+  color: white;
 }
 
 #sociales{
   width: 33%;
-background-color: lightblue;
+background-color: black;
 padding: 5px;
 }
 
@@ -140,5 +140,11 @@ padding: 5px;
   h1 {
     font-weight: bold;
     font-size: 1.5rem;
+  }
+  .texto{
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: aqua;
   }
   
